@@ -241,6 +241,7 @@ Stripe Styles
   }
   .nav-links li {
     height: 100%;
+    list-style: none;
   }
   .link-btn {
     height: 100%;
