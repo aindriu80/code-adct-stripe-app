@@ -8,7 +8,10 @@ import './App.css';
 function App() {
   return (
     <>
-      <h2>A Stripe Inspired App</h2>
+      <Navbar />
+      <Sidebar />
+      <Hero />
+      <Submenu />
     </>
   );
 }
